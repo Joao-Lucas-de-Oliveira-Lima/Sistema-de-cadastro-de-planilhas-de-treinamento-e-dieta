@@ -1,4 +1,4 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: Sistema de cadastro e gestão de planilhas de treinamento e dieta
 
 O sistema permite o cadastro de planilhas de treinamento físico e dieta, visando auxiliar praticantes das mais diversas modalidades esportivas, propiciando um ambiente, onde, tanto o usuário praticante poderá criar, salvar e editar suas próprias planilhas, quanto recebê-las de profissionais das áreas de nutrição e treinamento esportivo, tornando-se uma ferramenta alternativa a prescrição via papel impresso, comumente ainda utilizado.
 
